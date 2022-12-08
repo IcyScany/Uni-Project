@@ -1,0 +1,16 @@
+
+.content {
+		display: flex;
+		align-items: center;
+		margin: 40rpx;
+}
+.input {
+		border-bottom: 1px solid black;
+		padding: 6rpx;
+		flex: 1;
+}
+.box {
+		margin: 40rpx;
+		padding: 20rpx;
+		border-bottom: 1px solid #ccc;
+}
